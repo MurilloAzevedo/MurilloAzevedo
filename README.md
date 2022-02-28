@@ -27,9 +27,9 @@
    
  </div>
 
--⚙ I’m currently working on Group Renault from Brasil
--👨🏻‍🎓 I'm studying at UTFPR
--👨🏻‍💻 I’m currently learning Java
+# -⚙ I’m currently working on Group Renault from Brasil 
+# -👨🏻‍🎓 I'm studying at UTFPR
+# -👨🏻‍💻 I’m currently learning Java
 
 
 
